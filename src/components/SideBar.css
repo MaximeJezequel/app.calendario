@@ -1,0 +1,24 @@
+.App-sidebar {
+	width: 380px;
+	line-height: 1.5;
+	background: #762851;
+	color: #ffffff;
+	border-right: 1px solid #d3e2e8;
+}
+
+.App-sidebar-section {
+	padding: 2em;
+}
+
+.company {
+	display: flex;
+	justify-content: left;
+	align-items: center;
+}
+.company h1 {
+	margin-left: 10px;
+}
+
+.checkbox {
+	padding-right: 10px;
+}
