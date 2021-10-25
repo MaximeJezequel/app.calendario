@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# app.calendario
+
+app.calendario is the front-end app used by the Binouze Corporation, in conjunction with the api.calendario back-end server.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Installation
+
+Node.js should be installed as a prerequisite.
+https://nodejs.org/en/download/<br />
+If you're using Windows, bash should also be installed.
+https://gist.github.com/bhubr/00c6e39e72231cf091a17772d73e6fb3
+
+When you're done, in the terminal, run :
+
+- ```git clone git@github.com:MaximeJezequel/app.calendario.git``` to clone the project
+- ```cd app.calendario``` to enter the project
+- ```npm install``` to install dependencies
 
 ## Available Scripts
 
